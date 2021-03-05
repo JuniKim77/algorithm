@@ -27,7 +27,7 @@ int WUF::find(int p)
 {
 	int idx = p;
 
-	while (p != pParent[idx])
+	while (idx != pParent[idx])
 	{
 		idx = pParent[idx];
 	}
