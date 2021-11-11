@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dp_sticker", "dp_sticker\dp_sticker.vcxproj", "{AE0BF3A6-E7CB-4F7A-A2E3-F90CBA9A09D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE0BF3A6-E7CB-4F7A-A2E3-F90CBA9A09D7}.Debug|x64.ActiveCfg = Debug|x64
+		{AE0BF3A6-E7CB-4F7A-A2E3-F90CBA9A09D7}.Debug|x64.Build.0 = Debug|x64
+		{AE0BF3A6-E7CB-4F7A-A2E3-F90CBA9A09D7}.Debug|x86.ActiveCfg = Debug|Win32
+		{AE0BF3A6-E7CB-4F7A-A2E3-F90CBA9A09D7}.Debug|x86.Build.0 = Debug|Win32
+		{AE0BF3A6-E7CB-4F7A-A2E3-F90CBA9A09D7}.Release|x64.ActiveCfg = Release|x64
+		{AE0BF3A6-E7CB-4F7A-A2E3-F90CBA9A09D7}.Release|x64.Build.0 = Release|x64
+		{AE0BF3A6-E7CB-4F7A-A2E3-F90CBA9A09D7}.Release|x86.ActiveCfg = Release|Win32
+		{AE0BF3A6-E7CB-4F7A-A2E3-F90CBA9A09D7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4C73615-4EF6-4045-A5AF-B0B436E545C4}
+	EndGlobalSection
+EndGlobal
